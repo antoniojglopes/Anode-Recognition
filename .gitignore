@@ -1,0 +1,5 @@
+# Ignore the extracted files folder
+extracted_files/
+
+# Ignore all .zip files
+*.zip

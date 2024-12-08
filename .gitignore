@@ -1,5 +1,5 @@
 # Ignore the extracted files folder
-extracted_files/
+dataset/
 
 # Ignore all .zip files
 *.zip
